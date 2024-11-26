@@ -1,4 +1,4 @@
-# SQL NOTES
+### SQL NOTES
 
 Say you need to retrieve the first names F_NAME and last names L_NAME of all employees who live in Elgin, IL. You can use the LIKE operator to retrieve strings that contain the said text. The code will look as shown below
 
